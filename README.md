@@ -22,6 +22,20 @@
 
 - [基于 Vue 技术栈的微前端方案实践](https://github.com/mcuking/blog/issues/81)
 
+### 译文
+
+- [前端架构 — 让重构不那么痛苦（译）](https://github.com/mcuking/blog/issues/57)
+
+- [可扩展的前端#1 — 架构基础（译）](https://github.com/mcuking/blog/issues/59)
+
+- [可扩展的前端#2 — 常见模式（译）](https://github.com/mcuking/blog/issues/60)
+
+- [标准化 WASI：在 Web 之外运行 WebAssembly 的系统接口（译）](https://github.com/mcuking/blog/issues/99)
+
+- [WebAssembly Interface Types：与所有事物互操作！（译）](https://github.com/mcuking/blog/issues/106)
+
+- [WebAssembly 的后 MVP 时代的未来：一棵卡通技能树（译）](https://github.com/mcuking/blog/issues/108)
+
 ### 赞助
 
 如果觉得文章有价值，欢迎打赏点零花钱，激励笔者输出更多优质文章 (⁎⁍̴̛ᴗ⁍̴̛⁎)
