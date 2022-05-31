@@ -6,7 +6,13 @@
 
 - [搭建一个属于自己的在线 IDE](https://github.com/mcuking/blog/issues/86)
 
-- [CodeSandbox 沙箱性能优化篇](https://github.com/mcuking/blog/issues/110)
+- [云音乐低代码：基于 CodeSandbox 的沙箱性能优化](https://github.com/mcuking/blog/issues/110)
+
+- [搭建一个浏览器版 Vite 沙箱（待完成）](https://github.com/mcuking/blog/issues/111)
+
+- [搭建一个浏览器版 Node 沙箱（待完成）](https://github.com/mcuking/blog/issues/112)
+
+<img src="https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/13992673209/34ae/2e68/4c95/5e7760ab26d65ad5426fe90546d79b41.png" width=800/>
 
 ### Hybrid 系列
 
@@ -35,14 +41,3 @@
 - [WebAssembly Interface Types：与所有事物互操作！（译）](https://github.com/mcuking/blog/issues/106)
 
 - [WebAssembly 的后 MVP 时代的未来：一棵卡通技能树（译）](https://github.com/mcuking/blog/issues/108)
-
-### 赞助
-
-如果觉得文章有价值，欢迎打赏点零花钱，激励笔者输出更多优质文章 (⁎⁍̴̛ᴗ⁍̴̛⁎)
-
-<table>
-  <tr>
-    <td><img src="https://i.loli.net/2021/09/12/XLGbo5YuyDePxnw.png" width=200/></td>
-    <td><img src="https://i.loli.net/2021/09/12/pBYlJ9Fh4A7cUaX.png" width=200/></td>
-  </tr>
-</table>
